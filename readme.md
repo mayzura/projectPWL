@@ -23,9 +23,6 @@ Silahkan download bagi yang ingin mempelajari laravel :+1:
 ### Data Pengguna
 ![65](https://user-images.githubusercontent.com/13019337/66284400-b8ff1d00-e8f1-11e9-9a1e-4cbdb3921c61.png)
 
-### Data Buku
-![66](https://user-images.githubusercontent.com/13019337/66284401-b997b380-e8f1-11e9-9591-4ae1d82b3151.png)
-
 ### Data Order
 ![67](https://user-images.githubusercontent.com/13019337/66284403-b997b380-e8f1-11e9-94cd-7d3105a11cbb.png)
 
