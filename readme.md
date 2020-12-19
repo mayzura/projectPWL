@@ -1,5 +1,5 @@
 
-Mempelajari Laravel 6 Dengan Membuat Studi Kasus Toko Buku Online
+Mempelajari Laravel Dengan Membuat Studi Kasus Toko Buku Online
 Fitur : 
 - Login
 - Modul Pengguna (CRUD, Filter)
@@ -7,7 +7,7 @@ Fitur :
 - Modu Buku (CRUD, Filter)
 - Modul Order (Edit, Filter)
 
-Silahkan download bagi yang ingin mempelajari laravel 6 :+1:
+Silahkan download bagi yang ingin mempelajari laravel :+1:
 
 ## SS Aplikasi
 
